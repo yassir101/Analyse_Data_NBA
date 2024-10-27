@@ -6,9 +6,8 @@ Ce projet vise à analyser les drafts de la NBA, un événement clé où les éq
 
 ## Structure du Projet
 
-- `data/` : Contient les données de draft utilisées pour l'analyse.
 - `src/` : Contient le code d'analyse en R pour la préparation des données et la réalisation des analyses.
-- `output/` : Contient les résultats des analyses, y compris les visualisations des composantes principales et des boîtes à moustaches.
+- `projet_draf_NBA.pdf` : Rapport avec affichage des résultats, analyse et interprétation.
 - `README.md` : Ce document de présentation du projet.
 
 ## Méthodologie
